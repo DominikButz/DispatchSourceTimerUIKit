@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "34c207478194c1690bfa48c1500a1dd3"
+build_time: [1572251980, 766497000]
+inputs:
+  "/Users/Dominik/Documents/Programmieren/Xcode Projects/DispatchSourceTimerUIKit/DispatchSourceTimerUIKit/TimerViewController.swift": [1572251980, 701574208]
+  "/Users/Dominik/Documents/Programmieren/Xcode Projects/DispatchSourceTimerUIKit/DispatchSourceTimerUIKit/LaunchTimerViewController.swift": [1572240419, 281706872]
+  "/Users/Dominik/Documents/Programmieren/Xcode Projects/DispatchSourceTimerUIKit/DispatchSourceTimerUIKit/SecondViewController.swift": [1572251209, 902784415]
+  "/Users/Dominik/Documents/Programmieren/Xcode Projects/DispatchSourceTimerUIKit/DispatchSourceTimerUIKit/WatchTimer.swift": [1572239170, 976023290]
+  "/Users/Dominik/Documents/Programmieren/Xcode Projects/DispatchSourceTimerUIKit/DispatchSourceTimerUIKit/TabBarController.swift": [1572251209, 887631415]
+  "/Users/Dominik/Documents/Programmieren/Xcode Projects/DispatchSourceTimerUIKit/DispatchSourceTimerUIKit/AppDelegate.swift": [1572232460, 709163307]
+  "/Users/Dominik/Documents/Programmieren/Xcode Projects/DispatchSourceTimerUIKit/DispatchSourceTimerUIKit/SceneDelegate.swift": [1572251209, 988557192]
